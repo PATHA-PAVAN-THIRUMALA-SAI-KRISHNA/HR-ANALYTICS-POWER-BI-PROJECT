@@ -1,4 +1,4 @@
-# HR ANALYTICS POWER BI PROJECT
+# 📊 HR ANALYTICS PROJECT (POWER BI)
 ## 🔍 Project Overview
 
 An interactive HR Analytics dashboard built using Power BI to analyze employee attrition, workforce demographics, salary trends, and job satisfaction.
@@ -23,7 +23,9 @@ Data Modeling
 Interactive Filters & Visuals
 ## 📷 Dashboard Screenshots
 🔹 HR Analytics Overview
+
 ![HR ANALYTICS DASHBOARD_page-0001](https://github.com/user-attachments/assets/159fa8af-a032-495e-8afd-d8b5d185584b)
+
 High-level KPIs showing total employees, attrition count, attrition rate, average age, salary, and tenure.
 ## 💡 Key Insights
 
@@ -66,6 +68,6 @@ Use filters to explore attrition insights interactively
 ## 👤 Author
 
 Pavan Sai
-📧 Email - 
+📧 Email - pavansaikrishna04@gmail.com
 🔗 LinkedIn - 
 
