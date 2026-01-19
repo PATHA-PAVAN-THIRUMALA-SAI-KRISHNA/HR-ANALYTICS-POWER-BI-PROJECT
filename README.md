@@ -68,6 +68,8 @@ Use filters to explore attrition insights interactively
 ## 👤 Author
 
 Pavan Sai
+
 📧 Email - pavansaikrishna04@gmail.com
+
 🔗 LinkedIn - 
 
